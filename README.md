@@ -18,4 +18,4 @@ c. Average trip duration
 d. Popular trip regions
 
 
-You can check out the report via: https://lookerstudio.google.com/reporting/db70476f-ff3f-4a8a-bb8b-6868311c6c514
+You can check out the report via: https://lookerstudio.google.com/reporting/db70476f-ff3f-4a8a-bb8b-6868311c6c51
